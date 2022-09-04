@@ -1,6 +1,6 @@
 {
 	"ip":"COZOCRAFT.aternos.me",
-	"port": 36116,
+	"port": 3579,
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
